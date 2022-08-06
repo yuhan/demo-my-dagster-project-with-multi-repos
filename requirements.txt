@@ -1,0 +1,2 @@
+-e ./my-first-dagster-repo
+-e ./my-second-dagster-repo
